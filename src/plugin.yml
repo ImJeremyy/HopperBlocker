@@ -1,0 +1,6 @@
+name: HopperBlocker
+version: 1.0
+main: me.markiscool.hopperblocker.HopperBlockerPlugin
+api-version: 1.13
+author: MarkIsCool
+description: Disables players from crafting hoppers, unless otherwise given permission hopperblocker.craft.
